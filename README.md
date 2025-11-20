@@ -1,4 +1,4 @@
-# tutorial-week-5`
+# tutorial-week-5
 `Simulate a system with the specified resources as per the given circuit diagram and the source code in TinkerCad.`
 ### 1.	What is the difference between LM35 and TMP36 while interfacing with arduino?
 ```
